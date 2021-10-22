@@ -1,6 +1,6 @@
 Modifications:
 
-1. Modified head of the HTML files to link to the external css stylesheet (<link rel="stylesheet" href="style.css" />)
+1. Modified head of the HTML files to link to the external css stylesheet (<!---<link rel="stylesheet" href="style.css" />--->)
 
 2. Change the table format
 
