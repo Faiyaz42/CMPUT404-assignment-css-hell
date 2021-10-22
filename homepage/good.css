@@ -1,0 +1,28 @@
+img {
+    height: 20em;
+}
+
+#sidebar {
+  height: 100%;
+  width: 250px;
+  position: fixed;
+  top: 0; 
+  left: 0;
+  background-color: black; 
+}
+
+#sidebar div{
+    padding: 15px;
+    color: white;
+    font-size: 25px;
+    
+}
+
+#content {
+    height: 100em;
+    text-align: centre;
+    position: absolute;
+    transform: translateX(-50%);
+    font-size: 20px;
+}
+
