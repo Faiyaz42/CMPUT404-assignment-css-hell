@@ -22,7 +22,7 @@ img {
     height: 100em;
     text-align: centre;
     position: absolute;
+    left: calc(900px);
     transform: translateX(-50%);
     font-size: 20px;
 }
-
